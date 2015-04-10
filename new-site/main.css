@@ -1,0 +1,26 @@
+.wrapper {
+
+}
+.nav {
+
+}
+
+.main {
+	color: orange;
+
+}
+.main h2 {
+	color: red;
+}
+
+.main p {
+	color: black;
+	font-size: 32px;
+}
+
+.footer {
+	height: 20px;
+	background-color: black;
+	color: white;
+	
+}
