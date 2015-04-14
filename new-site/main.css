@@ -6,21 +6,32 @@
 }
 
 .main {
-	color: orange;
+	color: Gray;
 
 }
+
 .main h2 {
-	color: red;
-}
-
-.main p {
-	color: black;
-	font-size: 32px;
-}
-
-.footer {
-	height: 20px;
-	background-color: black;
 	color: white;
+	position: fixed;
+	top: 30px
+	right: 100px;
+	font-family: helvetica; 
+}
+
+.send {
+	color: black;
+	font-size: 20px;
+}
+
+.receive {
+	color: black;
+	font-size: 20px;
+}
+
+.repeat {
+	color: black;
+	font-size: 20px
+}
+
 	
 }
